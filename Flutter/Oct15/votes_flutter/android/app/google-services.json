@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "963085650655",
+    "firebase_url": "https://voting-d8e43.firebaseio.com",
+    "project_id": "voting-d8e43",
+    "storage_bucket": "voting-d8e43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:963085650655:android:c679b3153ccd03b654376a",
+        "android_client_info": {
+          "package_name": "mx.itesm.tc2020.votes_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "963085650655-e9embrv6e5jmb52aamcu8637tnnpr0gk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBHtUKvyQ7Z6SkNbbReaUxSE2NFUiwFkx8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "963085650655-e9embrv6e5jmb52aamcu8637tnnpr0gk.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
